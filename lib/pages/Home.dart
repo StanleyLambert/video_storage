@@ -141,7 +141,7 @@ class _HomeState extends State<Home> {
                     Container(width: _minimumPadding * 2),
                     Expanded(
                       child: RaisedButton(
-                        child: Text('Search'),
+                        child: Text('SignIn'),         // will be changed later
                         onPressed: () => _signIn().then((FirebaseUser user) => print(user)).catchError((e) => print(e)),
                         shape: new RoundedRectangleBorder(
                           borderRadius: new BorderRadius.circular(15.0),
