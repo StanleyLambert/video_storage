@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647242309667",
+    "firebase_url": "https://cloudvideostorage-12983.firebaseio.com",
+    "project_id": "cloudvideostorage-12983",
+    "storage_bucket": "cloudvideostorage-12983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647242309667:android:bd68d74debd6a4266cd196",
+        "android_client_info": {
+          "package_name": "com.sliit.CloudVideoStorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647242309667-d8srant5f5lg7ste3tb3hdamdfih6aeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sliit.CloudVideoStorage",
+            "certificate_hash": "2af3905b060cdcc187eaa3e6acc3488f1c348500"
+          }
+        },
+        {
+          "client_id": "647242309667-mdp278jtcjngulvft89p49aprghfjvad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnpU-y70B-YzFU3zIdq9lDbHuTLpEIjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647242309667-mdp278jtcjngulvft89p49aprghfjvad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
